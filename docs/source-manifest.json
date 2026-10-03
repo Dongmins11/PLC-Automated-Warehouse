@@ -45,16 +45,6 @@
     "sha256": "9130c82165084869c0508ac2d8bec0b37000f8b9a49d72d45e137769d9e440b3"
   },
   {
-    "path": "assets/videos/demo-01.mp4",
-    "bytes": 25672756,
-    "sha256": "584e9dcc069efb1b9b9a503dc442b7fff6b85754802836d3d74e98def7fb6760"
-  },
-  {
-    "path": "assets/videos/demo-02.mp4",
-    "bytes": 38263793,
-    "sha256": "cf346af3b9159bbdc1b6ec03fc662515c284192fe9ee3096bfee738ded6de69b"
-  },
-  {
     "path": "config/motor-settings.pcw",
     "bytes": 475136,
     "sha256": "7707ecb7da22a8f669500d7769923b10dd764cedab690408da4c73587fa5eff4"
@@ -138,5 +128,25 @@
     "path": "plc/warehouse.gxw",
     "bytes": 1203712,
     "sha256": "788268dcf50b3e4c3bd50f919eaf13830688ee5a987022945bebb4e3f0c0a2fb"
+  },
+  {
+    "path": "assets/gifs/automatic.gif",
+    "bytes": 6554910,
+    "sha256": "5410cbf659db36033676630a1f05ecfccd8ce6acc4ce73f0019052a79f535549"
+  },
+  {
+    "path": "assets/gifs/full-discharge.gif",
+    "bytes": 4360913,
+    "sha256": "f69ef59348f7ac84f15d9818da083931fe908e2badcb7e4d9c563d6ca082a574"
+  },
+  {
+    "path": "assets/gifs/selective-discharge.gif",
+    "bytes": 7496522,
+    "sha256": "b53e7ff6702a0db14e87ea64156b3c6fc141f7a62f0f51a461aa5567f422edec"
+  },
+  {
+    "path": "assets/gifs/selective-stacking.gif",
+    "bytes": 6192357,
+    "sha256": "6fcf776a4d06140dcaea71c57e18d7558e7f6b025bdb7f819d3a528dbb350c8c"
   }
 ]

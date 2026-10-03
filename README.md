@@ -8,7 +8,6 @@
 
 ![실제 자동화 공정 장비와 HMI 조작 모습](assets/images/system-overview.jpg)
 
-[🎬 시연 영상 1](assets/videos/demo-01.mp4) · [🎬 시연 영상 2](assets/videos/demo-02.mp4)
 
 ## 👤 My Contribution
 
@@ -44,6 +43,14 @@
 
 ## ⚙️ Key Features
 
+### Selective Stacking
+
+HMI에서 선택한 창고 위치에 소재를 적재하는 **팀 시스템 기능**입니다. 선택한 위치를 기준으로 1층부터 우측·좌측 순서로 적재하며, 이미 소재가 있는 위치는 피해서 빈 공간을 사용합니다.
+
+![창고 위치 선택 후 소재 적재](assets/gifs/selective-stacking.gif)
+
+선택한 위치로 소재를 운반하고, HMI의 창고 상태를 갱신하는 모습입니다.
+
 ### Automatic Discharge
 
 같은 종류의 소재가 3개 적재되면 저장 위치 정보를 이용해 해당 소재를 배출합니다. 금속과 비금속이 섞여 적재되어도 소재별 위치를 구분합니다.
@@ -53,6 +60,10 @@
 </p>
 
 HMI에서 **금속은 노란색, 비금속은 초록색**으로 표시합니다.
+
+![소재 적재 및 자동 배출 동작](assets/gifs/automatic.gif)
+
+같은 종류의 소재가 쌓인 뒤 저장 위치의 소재를 꺼내 배출하는 모습입니다.
 
 ### Selective & Full Discharge
 
@@ -66,6 +77,18 @@ HMI에서 **금속은 노란색, 비금속은 초록색**으로 표시합니다.
 | 전체 배출 | **전체 비움** 실행 | 소재가 있는 위치를 순서대로 탐색하여 모두 배출 |
 
 기본 동작 중 선택 배출을 요청하면 현재 시퀀스를 마친 후 전환합니다. 배출 작업 중에는 다른 배출 모드의 개입을 막아 동작 순서가 겹치지 않도록 했습니다.
+
+#### 선택 배출
+
+![선택한 위치의 소재 배출](assets/gifs/selective-discharge.gif)
+
+HMI에서 선택한 위치의 소재를 꺼내 배출 컨베이어로 옮깁니다.
+
+#### 전체 배출
+
+![창고 전체 배출](assets/gifs/full-discharge.gif)
+
+전체 비움 명령에 따라 창고에 남아 있는 소재를 순서대로 꺼냅니다.
 
 ### Discharge Sequence
 
@@ -157,7 +180,7 @@ plc/                  GX Works2 프로그램 원본
 hmi/project/          HMI 프로젝트 원본 폴더
 config/               모터 설정 파일·이미지
 assets/images/        장비·HMI·디바이스 화면
-assets/videos/        시연 영상 원본 2개
+assets/gifs/          기능별 동작 시연
 docs/                 발표자료·대본·파일 안내
 ```
 

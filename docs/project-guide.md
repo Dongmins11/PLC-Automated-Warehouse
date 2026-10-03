@@ -11,8 +11,6 @@
 | `hmi/project/` | `project` 폴더 전체 |
 | `config/motor-settings.pcw` | `모터세팅.pcw` |
 | `config/motor-settings.png` | `모터세팅.png` |
-| `assets/videos/demo-01.mp4` | `시연영상.mp4` |
-| `assets/videos/demo-02.mp4` | `시연 영상.mp4` |
 | `docs/presentation.pptx` | 제공된 발표자료 원본 |
 | `docs/presentation-script.txt` | 신동민 발표 대본 원문 |
 
@@ -38,4 +36,4 @@
 
 ## 미디어
 
-장비와 HMI 이미지는 발표자료의 원본 이미지입니다. 시연 영상 두 개는 원본을 함께 보존했습니다. README에서 영상 링크를 열어 확인하거나 파일을 다운로드할 수 있습니다.
+장비와 HMI 이미지는 발표자료의 원본 이미지입니다. 기능별 GIF는 원본 `시연 영상.mp4`(161.79초)에서 추출했습니다. 일반 속도의 선택 배출 구간은 약 1.5배속으로, 이미 가속된 장면이 포함된 나머지 구간은 원본 속도로 구성했습니다. MP4 파일은 저장소의 현재 버전에서 제거했습니다.
