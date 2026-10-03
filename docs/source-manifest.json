@@ -1,0 +1,142 @@
+[
+  {
+    "path": "assets/images/device-map.png",
+    "bytes": 223488,
+    "sha256": "ac46e2884e4dc4645f3442047e53feb46e2493fc23c82fa57d56735275ecc006"
+  },
+  {
+    "path": "assets/images/device-monitor.png",
+    "bytes": 55632,
+    "sha256": "6a56bbb93ae7045671cfb569364d64eb459f2e992393bc9fff18878498270efa"
+  },
+  {
+    "path": "assets/images/device-references.png",
+    "bytes": 57241,
+    "sha256": "ae695bf2d9f49357caf982f1dbff6dd746b64dfc465ee5d4ba2f25c5405ed6e2"
+  },
+  {
+    "path": "assets/images/device-search.png",
+    "bytes": 75577,
+    "sha256": "3eb6636146783ac6b9dc61f478e704c976421fba56391c8c4111447868956840"
+  },
+  {
+    "path": "assets/images/hmi-equipment.jpg",
+    "bytes": 103431,
+    "sha256": "7ac721eae4fd7644f33ccbfebfcdf8fdb150b6939cc2472e3091fc255b1bfa57"
+  },
+  {
+    "path": "assets/images/hmi-servo.jpg",
+    "bytes": 104250,
+    "sha256": "79154f59c6931c62bab68d02181f90026789f294c805398f7ec1595c8cb42bbe"
+  },
+  {
+    "path": "assets/images/hmi-warehouse.jpg",
+    "bytes": 123679,
+    "sha256": "1e8c6a6335107d574a9e90247893d7bf59da4c68c92433d8dc1a32fc10942e6f"
+  },
+  {
+    "path": "assets/images/system-overview.jpg",
+    "bytes": 85274,
+    "sha256": "dd25a2b444e2260dcb6b2a003fbb6bb4b5736737d2d668433b55942533437d0f"
+  },
+  {
+    "path": "assets/images/warehouse-state.png",
+    "bytes": 359248,
+    "sha256": "9130c82165084869c0508ac2d8bec0b37000f8b9a49d72d45e137769d9e440b3"
+  },
+  {
+    "path": "assets/videos/demo-01.mp4",
+    "bytes": 25672756,
+    "sha256": "584e9dcc069efb1b9b9a503dc442b7fff6b85754802836d3d74e98def7fb6760"
+  },
+  {
+    "path": "assets/videos/demo-02.mp4",
+    "bytes": 38263793,
+    "sha256": "cf346af3b9159bbdc1b6ec03fc662515c284192fe9ee3096bfee738ded6de69b"
+  },
+  {
+    "path": "config/motor-settings.pcw",
+    "bytes": 475136,
+    "sha256": "7707ecb7da22a8f669500d7769923b10dd764cedab690408da4c73587fa5eff4"
+  },
+  {
+    "path": "config/motor-settings.png",
+    "bytes": 154882,
+    "sha256": "5fc0cfe1fb56d4d1291a2b5ccd73765e31824ebafb00f2eb48168f004a48c878"
+  },
+  {
+    "path": "docs/presentation-script.txt",
+    "bytes": 10572,
+    "sha256": "67c52ac8b024d2edc89611182e5a4dc2e3384e0eca5bfd87ef4ca5a03858c794"
+  },
+  {
+    "path": "docs/presentation.pptx",
+    "bytes": 36984242,
+    "sha256": "e211bcb8c4a5c8f6092dd99eb159b1237700e474e6ff21cc5ea63696b5b7e4b9"
+  },
+  {
+    "path": "hmi/project/_hdb",
+    "bytes": 1083392,
+    "sha256": "f6e0218761653d8a23ab45bdbd39ee14b1f20a44674d18b4df8869d50c52fce0"
+  },
+  {
+    "path": "hmi/project/checkout.xml",
+    "bytes": 378,
+    "sha256": "b4e2f77aa6ee4ae1eac93acc2be399081a8b01083b62573efa176091e2ec1792"
+  },
+  {
+    "path": "hmi/project/dataprotection.xml",
+    "bytes": 7024,
+    "sha256": "8bd6bc2bc9402700a977d67096f622a646cddb0d29e2b4fc14418cf7d996f3c1"
+  },
+  {
+    "path": "hmi/project/history.xml",
+    "bytes": 3691,
+    "sha256": "2eb5752029476857800f9c463c49194856225a290af160b2e31d6289617864c1"
+  },
+  {
+    "path": "hmi/project/label.xml",
+    "bytes": 372,
+    "sha256": "38f3403c1b451abe65bd78b6ddad2c1386fbe0d275ff423b67ae9bf92e28938a"
+  },
+  {
+    "path": "hmi/project/labellink.xml",
+    "bytes": 394,
+    "sha256": "c78a7bf3ff44bee2943d24afd87a6bce82c636bb7b9025a5af9aecfd243c32a7"
+  },
+  {
+    "path": "hmi/project/Project.gt32",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "hmi/project/projectdatalist.xml",
+    "bytes": 4104,
+    "sha256": "a64de351d04b78f859e89cbd172149593d66338352053d5f1329ae12ae381893"
+  },
+  {
+    "path": "hmi/project/securitylevel.xml",
+    "bytes": 163840,
+    "sha256": "c5af25c453a76f2128e8bc9e62dbdd902eed0bb748809aeb1bdac2263231ccb5"
+  },
+  {
+    "path": "hmi/project/storedhistory.xml",
+    "bytes": 376,
+    "sha256": "3da86ce4992d04520a7362157853df7d4f2082b05ebfd017a950cb676d21496b"
+  },
+  {
+    "path": "hmi/project/user.xml",
+    "bytes": 184320,
+    "sha256": "94c05b6cab6345cde8130c4141cb9a4a3c2e3c8ee47495cbb4aac53b47873077"
+  },
+  {
+    "path": "plc/alternate/warehouse-from-archive.gxw",
+    "bytes": 1196544,
+    "sha256": "8d35b5acc3a88a9c3a3b592e3c5148c3c664a1bcef716d7f5e61209c15944065"
+  },
+  {
+    "path": "plc/warehouse.gxw",
+    "bytes": 1203712,
+    "sha256": "788268dcf50b3e4c3bd50f919eaf13830688ee5a987022945bebb4e3f0c0a2fb"
+  }
+]

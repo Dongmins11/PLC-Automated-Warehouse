@@ -1,0 +1,9 @@
+*.md text eol=lf
+*.json text eol=lf
+*.gxw binary
+*.pcw binary
+*.gt32 binary
+*.mp4 binary
+*.pptx binary
+hmi/** binary
+docs/presentation-script.txt -text
