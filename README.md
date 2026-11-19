@@ -1,5 +1,7 @@
 # 🏭 PLC Automated Warehouse
 
+**[📖 프로젝트 상세 · 구현과 문제 해결 보기](https://dongmins11.github.io/portfolio/plc.html)**
+
 > 금속·비금속 소재를 분류하고 저장 위치를 관리하며, 자동·선택·전체 배출을 수행하는 PLC 기반 자동화 공정 시스템
 
 ## 📌 Overview
